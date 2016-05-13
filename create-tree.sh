@@ -1,6 +1,5 @@
 #!/bin/bash
 
-mkdir web
 cd web
 
 for dir in public uploads etc
