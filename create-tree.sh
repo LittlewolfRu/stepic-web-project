@@ -1,6 +1,5 @@
 #!/bin/bash
 
-cd web
 
 for dir in public uploads etc
   do
