@@ -1,3 +1,4 @@
 
-bind = '127.0.0.1:8080'
-preload_app = '../hello.py'
+bind = '0.0.0.0:8080'
+pythonpath = '/home/box/web/'
+app = 'hello:hello_app'
